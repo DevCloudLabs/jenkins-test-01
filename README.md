@@ -18,5 +18,6 @@ They also want to display the status of that most recent test directly in the re
 ## Tips
 - Successfully building the project will create a artifact named `report.txt`.
 - Review the contents of the report for more information.
+- Update README
 
 _*This challenge should take about 15 to 20 minutes to complete.*_
